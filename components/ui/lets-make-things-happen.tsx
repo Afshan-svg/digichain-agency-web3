@@ -14,9 +14,9 @@ function LetsMakeThingsHappenSection() {
         </p>
 
         <p className="my-10 text-xl">
-          Contact us today to learn more about how our web3 marketing
-          services. By partnering with us, you'll gain a competitive edge in the web3 ecosystem.
+          Contact us today to learn more about how our web3 marketing services. By partnering with us, you&apos;ll gain a competitive edge in the web3 ecosystem.
         </p>
+
 
         <Link
           href="/meeting"

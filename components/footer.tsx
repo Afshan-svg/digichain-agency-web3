@@ -14,7 +14,7 @@ const Footer = () => {
             alt="image"
           />{" "}
         </h1>
-        <p className="text-left  text-xl  text-gray-500">519-319-1562</p>
+        <p className="text-left  text-xl  text-gray-500">8421705719</p>
         <p className="text-left  text-xl  text-gray-500">
           afshan@gmail.com
         </p>

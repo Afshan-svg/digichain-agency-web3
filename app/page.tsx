@@ -407,7 +407,7 @@ export default function Home() {
               alt="image"
             />{" "}
           </h1>
-          <p className="text-left  text-xl  text-gray-500">519-200-5000</p>
+          <p className="text-left  text-xl  text-gray-500">8421705719</p>
           <p className="text-left  text-xl  text-gray-500">
             afshan@gmail.com
           </p>

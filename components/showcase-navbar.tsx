@@ -20,7 +20,7 @@ xl:w-4/5
 2xl:w-[68%]
 
    
-    bg-white 
+    bg-black 
     flex 
     items-center
     justify-between py-6
@@ -41,7 +41,7 @@ xl:w-4/5
       </Link>
 
       <div className="absolute right-1/2 translate-x-1/2 transform">
-        <div className="hidden md:flex gap-x-10 2xl:gap-x-10 items-center text-gray-700 font-medium text-lg ">
+        <div className="hidden md:flex gap-x-10 2xl:gap-x-10 items-center text-white font-medium text-lg ">
           <Link
             href="/showcase"
             className="
@@ -81,8 +81,8 @@ xl:w-4/5
       border-2 
       border-black 
       dark:border-white 
-           bg-[#121212] 
-       text-white 
+      bg-[#dbd704] 
+       text-black 
        transition 
        duration-200 
        hover:shadow-[1px_1px_rgba(0,0,0),2px_2px_rgba(0,0,0),3px_3px_rgba(0,0,0),4px_4px_rgba(0,0,0),5px_5px_0px_0px_rgba(0,0,0)] dark:shadow-[1px_1px_rgba(255,255,255),2px_2px_rgba(255,255,255),3px_3px_rgba(255,255,255),4px_4px_rgba(255,255,255),5px_5px_0px_0px_rgba(255,255,255)] "

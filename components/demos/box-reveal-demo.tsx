@@ -8,11 +8,11 @@ const BoxRevealDemo = () => {
     <div className="h-full w-full items-center justify-center ml-10 overflow-hidden pt-8 space-y-2">
       <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
         
-        <p className="text-3xl font-semibold">1. Connect</p>
+        <p className="text-3xl text-[#dbd704] font-semibold">1. Connect</p>
       </BoxReveal>
 
       <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
-        <h2 className="my-2 text-lg text-gray-500">
+        <h2 className="my-2 text-white text-lg text-gray-500">
           Connect with us via
           <Link href={"/meeting"} className="text-[#3b82f6]">
             {" "}
@@ -21,21 +21,21 @@ const BoxRevealDemo = () => {
         </h2>
       </BoxReveal>
       <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
-        <p className="text-3xl font-semibold">2. Collaborate</p>
+        <p className="text-3xl text-[#dbd704] font-semibold">2. Collaborate</p>
       </BoxReveal>
 
       <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
-        <h2 className="my-2 text-lg text-gray-500">
+        <h2 className="my-2 text-lg text-white">
           Outline the scope of the project
         </h2>
       </BoxReveal>
 
       <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
-        <p className="text-3xl font-semibold">3. Create</p>
+        <p className="text-3xl text-[#dbd704] font-semibold">3. Create</p>
       </BoxReveal>
 
       <BoxReveal boxColor={"#3b82f6"} duration={0.5}>
-        <h2 className="my-2 text-lg text-gray-500">Leave the rest to us</h2>
+        <h2 className="my-2 text-lg text-white">Leave the rest to us</h2>
       </BoxReveal>
     </div>
   );
